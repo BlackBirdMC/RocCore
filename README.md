@@ -19,7 +19,7 @@ RocCore is an open-source bedrock server software written in Javascript.
 
 ## Status
 
-RocCore under active development.
+RocCore under development.
 
 ## Getting started
 
